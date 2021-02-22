@@ -1,3 +1,13 @@
+# Web Shop React
+
+I am building a online shop using React, Material ui Commerce.js, Stripe.
+
+## i am still working on it i will finish it this week
+
+here you are a link for for first version.\
+https://elegant-volhard-48e6ed.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
