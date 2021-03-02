@@ -1,5 +1,20 @@
 # Web Shop React
 
+<div align="center">
+https://portfolio-ahmad-hendi.herokuapp.com/
+
+## Home Page 
+<img src="https://raw.githubusercontent.com/Ahmad-Hendi/General-Photos/main/apps/onlineShopReact/home.jpg" width="100%"/>
+
+## cart Page 
+<img src="https://raw.githubusercontent.com/Ahmad-Hendi/General-Photos/main/apps/onlineShopReact/cart.jpg" width="100%"/>
+
+## Checkout part one
+<img src="https://raw.githubusercontent.com/Ahmad-Hendi/General-Photos/main/apps/onlineShopReact/checkoutOne.jpg" width="100%"/>
+
+## Checkout 
+<img src="https://raw.githubusercontent.com/Ahmad-Hendi/General-Photos/main/apps/onlineShopReact/checkoutTwo.jpg" width="100%"/>
+</div>
 
 
 
