@@ -1,5 +1,12 @@
 # Web Shop React
 
+
+
+
+
+
+</br></br></br></br></br></br></br>
+
 I am building a online shop using React, Material ui Commerce.js, Stripe.
 
 ## i am still working on it i will finish it this week
