@@ -7,7 +7,7 @@ https://portfolio-ahmad-hendi.herokuapp.com/
 <img src="https://raw.githubusercontent.com/Ahmad-Hendi/General-Photos/main/apps/onlineShopReact/home.jpg" width="100%"/>
 
 ## cart Page 
-<img src="https://raw.githubusercontent.com/Ahmad-Hendi/General-Photos/main/apps/onlineShopReact/cart.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ahmad-Hendi/General-Photos/main/apps/onlineShopReact/cart.png" width="100%"/>
 
 ## Checkout part one
 <img src="https://raw.githubusercontent.com/Ahmad-Hendi/General-Photos/main/apps/onlineShopReact/checkoutOne.jpg" width="100%"/>
